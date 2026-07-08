@@ -1,25 +1,77 @@
-<h1 align="center">Hi 👋, I'm muneeba ahmad</h1>
-<h3 align="center">A passionate Computer Science Student from Pakistan</h3>
+<h1 align="center">Hi, I'm Muneeba Ahmad 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebaahmad24&label=Profile%20views&color=0e75b6&style=flat" alt="muneebaahmad24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneebaahmad24" alt="muneebaahmad24" /></a> </p>
-
-- 🔭 I’m currently working on **AI vision aid prject**
-
-- 🌱 I’m currently learning **cybersecurity skills by using TryHackMe**
-
-- 🧑‍💻I have worked on **.NET Framework, MySQL, HTML/CSS, Bootstrap, Python, C++,**
-
-- 📫 How to reach me **muneebaahmad123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Computer Science graduate building AI-powered apps, full-stack web platforms, and mobile solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:muneebaahmad123@gmail.com"><img src="https://img.shields.io/badge/Email-muneebaahmad123%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebaahmad24&show_icons=true&locale=en&layout=compact" alt="muneebaahmad24" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muneebaahmad24&show_icons=true&locale=en" alt="muneebaahmad24" /></p>
+### 🧠 About Me
+
+- 🎓 BS Computer Science, University of the Punjab, Gujranwala (2022–2026) — CGPA 3.53/4.00, Minor in Mathematics
+- 🤖 I build AI-powered applications, REST APIs, and full-stack systems — with hands-on experience in LLM integration, RAG pipelines, and computer vision
+- 🛠️ Comfortable across the stack: Python & Flask on the backend, ASP.NET Core MVC and Flutter for apps, plus solid SQL fundamentals
+- 🌱 Currently exploring: Prompt Engineering, Retrieval-Augmented Generation, and applied Generative AI
+- 💬 Always happy to talk about AI/ML projects, software engineering practices, or Flutter development
+
+---
+
+### 🚀 Featured Projects
+
+**[AI-Powered Visual Assistance System](https://github.com/YOUR-USERNAME/REPO-NAME)**
+Cross-platform Flutter + Flask app giving visually impaired users real-time object detection, target-object search, and bilingual (English/Urdu) voice guidance — powered by YOLOv8 and OpenCV.
+
+**[LLM-Powered Customer Support Chatbot (RAG)](https://github.com/YOUR-USERNAME/REPO-NAME)**
+Hybrid RAG chatbot combining Sentence-Transformer semantic search over a 30+ FAQ knowledge base with Gemini 1.5 Flash as an LLM fallback, deployed via WhatsApp Cloud API and a web chat interface.
+
+**[Full-Stack E-Commerce Platform (RBAC)](https://github.com/YOUR-USERNAME/REPO-NAME)**
+ASP.NET MVC 5 e-commerce app with role-based access control (Customer/Admin/Manager/Staff), full cart-to-checkout flow, and inventory management using Entity Framework and SQL Server.
+
+**[Library Management System](https://github.com/YOUR-USERNAME/REPO-NAME)**
+PHP + MySQL system with role-based access, book/borrowing tracking, and admin/user dashboards, built end-to-end following the SDLC.
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frameworks & Tools**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+**AI / ML**
+![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+YOLOv8 • Computer Vision • RAG • Prompt Engineering • Sentence Transformers
+
+**Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuneebaAhmad24&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebaAhmad24&layout=compact" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Open to internship and entry-level Software/AI Engineering opportunities.</i></p>
