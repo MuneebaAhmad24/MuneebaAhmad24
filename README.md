@@ -23,7 +23,7 @@
 
 ### 🚀 Featured Projects
 
-**[AI-Powered Visual Assistance Systemhttps://github.com/MuneebaAhmad24/AI-Powered-Visual-Assistance-System**
+**[AI-Powered Visual Assistance System](https://github.com/MuneebaAhmad24/AI-Powered-Visual-Assistance-System)**
 Cross-platform Flutter + Flask app giving visually impaired users real-time object detection, target-object search, and bilingual (English/Urdu) voice guidance — powered by YOLOv8 and OpenCV.
 
 **[LLM-Powered Customer Support Chatbot (RAG)](https://github.com/YOUR-USERNAME/REPO-NAME)**
