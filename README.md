@@ -29,7 +29,7 @@ Cross-platform Flutter + Flask app giving visually impaired users real-time obje
 **[LLM-Powered Customer Support Chatbot (RAG)](https://github.com/YOUR-USERNAME/REPO-NAME)**
 Hybrid RAG chatbot combining Sentence-Transformer semantic search over a 30+ FAQ knowledge base with Gemini 1.5 Flash as an LLM fallback, deployed via WhatsApp Cloud API and a web chat interface.
 
-**[Full-Stack E-Commerce Platform (RBAC)](https://github.com/YOUR-USERNAME/REPO-NAME)**
+**[Full-Stack E-Commerce Platform (RBAC)](https://github.com/MuneebaAhmad24/Full-Stack-E-commerce-Platform)**
 ASP.NET MVC 5 e-commerce app with role-based access control (Customer/Admin/Manager/Staff), full cart-to-checkout flow, and inventory management using Entity Framework and SQL Server.
 
 **[Library Management System](https://github.com/YOUR-USERNAME/REPO-NAME)**
