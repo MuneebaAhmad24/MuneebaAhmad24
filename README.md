@@ -65,13 +65,4 @@ YOLOv8 • Computer Vision • RAG • Prompt Engineering • Sentence Transform
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuneebaAhmad24&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebaAhmad24&layout=compact" height="165"/>
-</p>
-
----
-
-<p align="center"><i>Open to internship and entry-level Software/AI Engineering opportunities.</i></p>
