@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:muneebaahmad123@gmail.com"><img src="https://img.shields.io/badge/Email-muneebaahmad123%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muneebaahmad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -82,7 +82,8 @@ PHP + MySQL system with role-based access, book/borrowing tracking, and admin/us
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuneebaAhmad24&show_icons=true&hide_border=true" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=MuneebaAhmad24" alt="Muneeba's GitHub stats" />
+  </a>
 </p>
