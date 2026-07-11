@@ -13,10 +13,10 @@
 
 ### 🧠 About Me
 
-- 🎓 BS Computer Science, University of the Punjab, Gujranwala (2022–2026) — CGPA 3.53/4.00, Minor in Mathematics
+- 🎓 BS Computer Science, University of the Punjab, Gujranwala (2022–2026) 
 - 🤖 I build AI-powered applications, REST APIs, and full-stack systems — with hands-on experience in LLM integration, RAG pipelines, and computer vision
 - 🛠️ Comfortable across the stack: Python & Flask on the backend, ASP.NET Core MVC and Flutter for apps, plus solid SQL fundamentals
-- 🌱 Currently exploring: Prompt Engineering, Retrieval-Augmented Generation, and applied Generative AI
+- 🌱 Exploring advanced applications of Generative AI, LLM-based systems, and AI-driven automatio
 - 💬 Always happy to talk about AI/ML projects, software engineering practices, or Flutter development
 
 ---
@@ -24,10 +24,10 @@
 ### 🚀 Featured Projects
 
 **[AI-Powered Visual Assistance System](https://github.com/MuneebaAhmad24/AI-Powered-Visual-Assistance-System)**
-Cross-platform Flutter + Flask app giving visually impaired users real-time object detection, target-object search, and bilingual (English/Urdu) voice guidance — powered by YOLOv8 and OpenCV.
+AI-powered Flutter + Flask application designed for visually impaired users, providing real-time object detection, target object search, bilingual voice assistance, and accessible interaction using YOLOv8 and OpenCV.
 
 **[LLM-Powered Customer Support Chatbot (RAG)](https://github.com/MuneebaAhmad24/LLM-Powered-Customer-Support-Chatbot-RAG)**
-Hybrid RAG chatbot combining Sentence-Transformer semantic search over a 30+ FAQ knowledge base with Gemini 3.5 Flash as an LLM fallback, deployed via WhatsApp Cloud API and a web chat interface.
+Hybrid RAG chatbot combining Sentence-Transformer semantic search over an FAQ knowledge base with Gemini API-powered responses, deployed via WhatsApp Cloud API and a web chat interface.
 
 **[Full-Stack E-Commerce Platform (RBAC)](https://github.com/MuneebaAhmad24/Full-Stack-E-commerce-Platform)**
 ASP.NET MVC 5 e-commerce app with role-based access control (Customer/Admin/Manager/Staff), full cart-to-checkout flow, and inventory management using Entity Framework and SQL Server.
@@ -47,22 +47,42 @@ PHP + MySQL system with role-based access, book/borrowing tracking, and admin/us
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks**
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-**AI / ML**
-![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-YOLOv8 • Computer Vision • RAG • Prompt Engineering • Sentence Transformers
+**Backend & Web Development**
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC%205-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 
-**Databases**
+**Mobile Development**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+
+**AI / Computer Vision**
+![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-111111?style=flat&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-412991?style=flat)
+
+**Databases & Tools**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SSMS](https://img.shields.io/badge/-SQL%20Server%20Management%20Studio-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuneebaAhmad24&show_icons=true&hide_border=true" />
+</p>
