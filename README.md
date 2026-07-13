@@ -16,7 +16,7 @@
 - 🎓 BS Computer Science, University of the Punjab, Gujranwala (2022–2026) 
 - 🤖 I build AI-powered applications, REST APIs, and full-stack systems — with hands-on experience in LLM integration, RAG pipelines, and computer vision
 - 🛠️ Comfortable across the stack: Python & Flask on the backend, ASP.NET Core MVC and Flutter for apps, plus solid SQL fundamentals
-- 🌱 Exploring advanced applications of Generative AI, LLM-based systems, and AI-driven automatio
+- 🌱 Exploring advanced applications of Generative AI, LLM-based systems, and AI-driven automation
 - 💬 Always happy to talk about AI/ML projects, software engineering practices, or Flutter development
 
 ---
