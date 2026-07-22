@@ -17,7 +17,7 @@
 - 🤖 I build AI-powered applications, Enterprise platforms , and full-stack systems — with hands-on experience in LLM integration, RAG pipelines, and computer vision
 - 🛠️ Comfortable across the stack: Python & Flask on the backend, ASP.NET Core MVC and Flutter for apps, plus solid SQL fundamentals
 - 🌱 Exploring advanced applications of Generative AI, LLM-based systems, and AI-driven automation
-- 💬 Always happy to talk about AI/ML projects, software engineering practices, or Flutter development
+- 💬 Always happy to talk about AI/ML projects, software engineering practices,.NET development or Flutter development
 
 ---
 
