@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muneeba Ahmad 👋</h1>
 
 <p align="center">
-  Computer Science graduate focused on building AI-powered applications and intelligent software solutions.
+  Computer Science graduate focused on AI Engineering, intelligent systems, and building practical software solutions.
 </p>
 
 <p align="center">
@@ -14,13 +14,11 @@
 ### 🧠 About Me
 
 * 🎓 BS Computer Science, University of the Punjab, Gujranwala (2022–2026)
-* 🤖 Focused on AI Engineering, with hands-on experience building AI-powered applications using LLMs, RAG, computer vision, and AI APIs
-* 🧠 Interested in Generative AI, LLM-based systems, AI Agents, AI automation, and computer vision
-* 🛠️ Strong software engineering foundation with Python, C#, C++, JavaScript, Dart, Flask, ASP.NET Core, Flutter, SQL, and REST APIs
-* 🚀 Built projects including an AI-powered visual assistance system and an LLM-powered customer support chatbot
-* 🌱 Continuously exploring new applications of AI to build smarter, more efficient, and user-focused solutions
-
----
+* 🤖 Focused on **AI Engineering**, with hands-on experience in LLMs, RAG, computer vision, AI APIs, and intelligent software solutions
+* 🧠 Interested in **Generative AI, LLM-based systems, AI Agents, AI automation, computer vision, and machine learning**
+* 🛠️ Strong software engineering foundation with **Python, C#, C++, JavaScript, Dart, Flask, ASP.NET Core, Flutter, SQL, and REST APIs**
+* 🚀 Built projects including an **AI-powered visual assistance system** and an **LLM-powered customer support chatbot**
+* 🌱 Continuously exploring emerging technologies and finding ways to build smarter, more efficient, and user-focused solutions
 
 ### 🚀 Featured Projects
 
